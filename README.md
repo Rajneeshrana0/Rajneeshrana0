@@ -9,5 +9,5 @@
 - 📫 How to reach me: rajneeshrana038@gmail.com
 - Youtube :[Rajneesh Rana ](https://www.youtube.com/c/RajneeshRana0)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spent 12 hours to learning Web Development
+- ⚡ Fun fact: I spent 8 hours to learning Web Development
 
