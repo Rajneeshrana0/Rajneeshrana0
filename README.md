@@ -44,6 +44,23 @@
   - Developed key features such as **CRUD operations**, analytics, and advanced search.  
 
 ---
+### 📈 GitHub Stats
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=rajneeshrana0&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=rajneeshrana0&theme=radical&hide_border=true" alt="GitHub Streak" /></td>
+  </tr>
+</table>
+
+---
+
+### 📞 Let's Connect!
+<p align="center">
+  <a href="mailto:ranarajneesh075@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square"></a>
+  <a href="https://www.linkedin.com/in/rajneeshrana0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square"></a>
+  <a href="https://github.com/rajneeshrana0"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square"></a>
+</p>
+
 
 ### 🛠️ Technical Skills
 #### Programming Languages:
@@ -101,27 +118,7 @@
 
 ---
 
-### 🎓 Certifications
-- **Full Stack Web Development** - Harkirat  
-- **Data Structure and Algorithms** - Take You Forward  
-- **Complete React Native Developer** - Udemy  
-- **Ethereum and Solidity** - Harkirat  
 
----
 
-### 📈 GitHub Stats
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=rajneeshrana0&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=rajneeshrana0&theme=radical&hide_border=true" alt="GitHub Streak" /></td>
-  </tr>
-</table>
 
----
 
-### 📞 Let's Connect!
-<p align="center">
-  <a href="mailto:ranarajneesh075@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square"></a>
-  <a href="https://www.linkedin.com/in/rajneeshrana0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square"></a>
-  <a href="https://github.com/rajneeshrana0"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square"></a>
-</p>
