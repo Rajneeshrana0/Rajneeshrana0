@@ -1,12 +1,24 @@
-### Hi there 👋 I'm Rajneesh Rana.
+<h1 align="center">Hi there! I'm Rajneesh Rana <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30" height="30px"/></h1>
+<h3 align="center">A developer who is fighting for development with every keystroke! 🦾✨</h3>
 
-- 🔭 I’m currently working on  Web 3.0 Smart Contract
-- 🌱 I’m currently learning Full Stack Web Development and Data Structure and Algorithm
-- 👯 I’m looking to collaborate on Youtube
-- 🤔 I’m looking for help with TypeScript 
-- 💬 Ask me about Full Stack Web Development or Data Structure or Algorithm
-- 📫 How to reach me: rajneeshrana038@gmail.com
-- Youtube :[Rajneesh Rana ](https://www.youtube.com/c/RajneeshRana0)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spent 8 hours to learning Web Development
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=GSingh2432002&label=Profile%20views&color=0e75b6&style=flat" alt="GSingh2432002" /> 
+</p>
 
+- 🌐 Open Source | 🖥️ Web Developer | 📱 React Native
+
+- 🌱 Trying learning everything 😄
+
+- ⚡ Fun fact **love tech, rap music and sports**
+
+- 📫 How to reach me **gsingh332211@gmail.com**
+
+- 💻 Check out my recent works : **[vrplaced.ai](https://vrplaced.ai/)**
+
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=GSingh2432002&show_icons=true&theme=radical&hide_border=true" alt="GSingh2432002" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=GSingh2432002&theme=radical&hide_border=true" alt="GSingh2432002" /></td>
+  </tr>
+</table>
