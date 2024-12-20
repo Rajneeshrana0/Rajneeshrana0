@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ranarajneesh075@gmail.com**
 
-- 💻 Check out my recent works : **[vrplaced.ai]([https://vrplaced.ai/](https://github.com/rajneeshrana0?tab=repositories))**
+- 💻 Check out my recent works : **[Projects]([https://vrplaced.ai/](https://github.com/rajneeshrana0?tab=repositories))**
 
 
 <table>
