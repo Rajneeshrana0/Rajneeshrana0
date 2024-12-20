@@ -2,7 +2,7 @@
 <h3 align="center">A developer who is fighting for development with every keystroke! 🦾✨</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=GSingh2432002&label=Profile%20views&color=0e75b6&style=flat" alt="GSingh2432002" /> 
+  <img src="https://komarev.com/ghpvc/?username=rajneeshrana0&label=Profile%20views&color=0e75b6&style=flat" alt="Rajneesh Rana" /> 
 </p>
 
 - 🌐 Open Source | 🖥️ Web Developer | 📱 React Native
@@ -18,7 +18,7 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=rajneeshrana0&show_icons=true&theme=radical&hide_border=true" alt="GSingh2432002" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=GSingh2432002&theme=radical&hide_border=true" alt="GSingh2432002" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=rajneeshrana0&show_icons=true&theme=radical&hide_border=true" alt="RajneeshRana" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=rajneeshrana0&theme=radical&hide_border=true" alt="RajneeshRana" /></td>
   </tr>
 </table>
