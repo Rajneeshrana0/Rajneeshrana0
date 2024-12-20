@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌐 **Open Source | MERN Stack Developer | React Native Enthusiast**  
+- 🌐 **Open Source | MERN Stack Developer | React Native & Devops & BlockChain Enthusiast**  
 - 🌱 Continuously learning **new technologies and sharpening my problem-solving skills!**  
 - ⚡ Fun fact: I enjoy **tech, rap music, and sports**.  
 - 📫 Reach me: **[ranarajneesh075@gmail.com](mailto:ranarajneesh075@gmail.com)**  
@@ -19,16 +19,7 @@
 
 ---
 
-### 💼 Internship Experience
-- **MERN Stack Developer** @ Shingania Finishers (March 2024 – August 2024)  
-  - Developed and optimized an **admin panel** with advanced functionalities.  
-  - Enhanced features for **analytics, search, filter, and data management operations**.  
 
-- **MERN Stack Developer** @ Uniparels Pvt. Ltd. (September 2023 – December 2023)  
-  - Designed and implemented an **admin panel** integrated with multiple backend services.  
-  - Developed key features such as **CRUD operations**, analytics, and advanced search.  
-
----
 ### 📈 GitHub Stats
 <table>
   <tr>
@@ -79,31 +70,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
 ![VS Code](https://img.shields.io/badge/-VS_Code-0078D4?logo=visual-studio-code&logoColor=white&style=flat-square)
-
----
-
-### 🌟 Projects
-- **EdUniHub**: An ed-tech platform featuring interactive video lectures, course management, personalized recommendations, and secure payments via Razorpay.  
-  **Tech Stack**: React, TailwindCSS, MongoDB, Node.js, Express.js.  
-  **Live Demo**: [EdUniHub](https://ed-uni-hub.vercel.app/)
-
-- **Dev and Viv**: A scalable e-commerce platform with secure payments and media management via Cloudinary.  
-  **Tech Stack**: React, Node.js, Express.js, MongoDB.  
-  **Live Demo**: [Dev and Viv](https://ecom-nu-five.vercel.app/)
-
-- **Singhania Finishers**: A fabric management system with real-time stock tracking and quality control.  
-  **Tech Stack**: ReactJS, NodeJS, ExpressJS, MongoDB.  
-  **Live Demo**: [Singhania Finishers](https://singh-live.vercel.app/)
-
----
-
-### 🏆 Achievements
-- **Hack BVICAM Hackathon**: Winner.  
-- **Smart India Hackathon**: Finalist.  
-
----
-
-
 
 
 
