@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **love tech, rap music and sports**
 
-- 📫 How to reach me **gsingh332211@gmail.com**
+- 📫 How to reach me **ranarajneesh075@gmail.com**
 
 - 💻 Check out my recent works : **[vrplaced.ai](https://vrplaced.ai/)**
 
