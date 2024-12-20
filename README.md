@@ -14,23 +14,8 @@
 - 🌱 Continuously learning **new technologies and sharpening my problem-solving skills!**  
 - ⚡ Fun fact: I enjoy **tech, rap music, and sports**.  
 - 📫 Reach me: **[ranarajneesh075@gmail.com](mailto:ranarajneesh075@gmail.com)**  
-- 🌟 Check out my recent works:  
-  - **[EdUniHub](https://ed-uni-hub.vercel.app/)** - An ed-tech platform.  
-  - **[Dev and Viv](https://ecom-nu-five.vercel.app/)** - E-commerce platform.  
-  - **[Singhania Finishers](https://singh-live.vercel.app/)** - Fabric management system.  
+ 
 
----
-
-### 🎓 Education
-- **Bachelor of Technology in Computer Science and Engineering**  
-  **Panipat Institute of Engineering and Technology** (August 2022 – May 2025)  
-  **SGPA**: 7.2  
-- **Diploma in Engineering**  
-  **Govt. Polytechnic Jhajjar** (June 2019 – August 2021)  
-  **Percentage**: 67.08%  
-- **Senior Secondary & Secondary Education**  
-  **Florence Public Senior Secondary School**  
-  **Percentages**: 70.8% (Senior), 76.8% (Secondary)  
 
 ---
 
