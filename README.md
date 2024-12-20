@@ -30,12 +30,6 @@
 
 ---
 
-### 📞 Let's Connect!
-<p align="center">
-  <a href="mailto:ranarajneesh075@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square"></a>
-  <a href="https://www.linkedin.com/in/rajneeshrana0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square"></a>
-  <a href="https://github.com/rajneeshrana0"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square"></a>
-</p>
 
 
 ### 🛠️ Technical Skills
@@ -72,4 +66,10 @@
 ![VS Code](https://img.shields.io/badge/-VS_Code-0078D4?logo=visual-studio-code&logoColor=white&style=flat-square)
 
 
+### 📞 Let's Connect!
+<p align="center">
+  <a href="mailto:ranarajneesh075@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square"></a>
+  <a href="https://www.linkedin.com/in/rajneeshrana0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square"></a>
+  <a href="https://github.com/rajneeshrana0"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square"></a>
+</p>
 
